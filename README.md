@@ -13,9 +13,9 @@ This program have exact same output as sh as well as the exact same error output
 
 ### Example of error with sh:
 $ echo "qwerty" | /bin/sh
-/bin/sh: 1: qwerty: not found
+* /bin/sh: 1: qwerty: not found
 $ echo "qwerty" | /bin/../bin/sh
-/bin/../bin/sh: 1: qwerty: not found
+* /bin/../bin/sh: 1: qwerty: not found
 $
 ### Error with our program:
 $ echo "qwerty" | ./hsh
@@ -26,11 +26,11 @@ $
 ## Testing
 ### Our shell work like this in interactive mode:
 $ ./hsh
-($) /bin/ls
-hsh main.c shell.c
-($)
-($) exit
-$
+* ($) /bin/ls
+* hsh main.c shell.c
+* ($)
+* ($) exit
+#### $
 ### But also in non-interactive mode:
 $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c test_ls_2
