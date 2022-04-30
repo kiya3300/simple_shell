@@ -36,21 +36,21 @@ $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c test_ls_2
 $
 $ cat test_ls_2
-/bin/ls
-/bin/ls
+* /bin/ls
+* /bin/ls
 $
 $ cat test_ls_2 | ./hsh
-hsh main.c shell.c test_ls_2
-hsh main.c shell.c test_ls_2
+* hsh main.c shell.c test_ls_2
+* hsh main.c shell.c test_ls_2
 $
 ## Examples
-$ * /bin/pwd
+$ /bin/pwd
 /home/vagrant/shell
 $ ls -la
 total 108
-** -rw-r--r-- 1 abel 22691  487 Oct 30 11:10 _dollar_special.c
-** -rw-r--r-- 1 abel 22691  824 Oct 30 11:10 _get_history_lines_count.c
-** -rw-r--r-- 1 abel 22691  363 Oct 30 11:10 _getenv.c
+* -rw-r--r-- 1 abel 22691  487 Oct 30 11:10 _dollar_special.c
+* -rw-r--r-- 1 abel 22691  824 Oct 30 11:10 _get_history_lines_count.c
+* -rw-r--r-- 1 abel 22691  363 Oct 30 11:10 _getenv.c
 * -rw-r--r-- 1 abel 22691 818 Oct 30 11:11 _handle_var_replacement.c
 * -rw-r--r-- 1 abel 22691 1745 Oct 30 11:11 _help.c
 * -rw-r--r-- 1 abel 22691 1587 Oct 30 11:09 _history.c
