@@ -49,6 +49,7 @@ $
 ## Examples
 $ /bin/pwd
 /home/vagrant/shell
+
 $ ls -la
 total 108
 * -rw-r--r-- 1 abel 22691  487 Oct 30 11:10 _dollar_special.c
