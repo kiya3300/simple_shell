@@ -19,9 +19,9 @@ $ echo "qwerty" | /bin/../bin/sh
 $
 ### Error with our program:
 $ echo "qwerty" | ./hsh
-./hsh: 1: qwerty: not found
+* ./hsh: 1: qwerty: not found
 $ echo "qwerty" | ./././hsh
-./././hsh: 1: qwerty: not found
+* ./././hsh: 1: qwerty: not found
 $
 ## Testing
 ### Our shell work like this in interactive mode:
@@ -30,7 +30,7 @@ $ ./hsh
 * hsh main.c shell.c
 * ($)
 * ($) exit
-#### $
+* $
 ### But also in non-interactive mode:
 $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c test_ls_2
