@@ -44,7 +44,7 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 ## Examples
-$ /bin/pwd
+$ * /bin/pwd
 /home/vagrant/shell
 $ ls -la
 total 108
