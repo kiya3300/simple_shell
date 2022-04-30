@@ -51,37 +51,37 @@ total 108
 -rw-r--r-- 1 abel 22691  487 Oct 30 11:10 _dollar_special.c
 -rw-r--r-- 1 abel 22691  824 Oct 30 11:10 _get_history_lines_count.c
 -rw-r--r-- 1 abel 22691  363 Oct 30 11:10 _getenv.c
--rw-r--r-- 1 abel 22691 818 Oct 30 11:11 _handle_var_replacement.c
--rw-r--r-- 1 abel 22691 1745 Oct 30 11:11 _help.c
--rw-r--r-- 1 abel 22691 1587 Oct 30 11:09 _history.c
--rw-r--r-- 1 abel 22691  750 Oct 30 11:11 _own_memory.c
--rw-r--r-- 1 abel 22691  232 Oct 30 11:13 _puts.c
--rw-r--r-- 1 abel 22691  351 Oct 30 11:11 _strcpy.c
--rw-r--r-- 1 abel 22691  448 Oct 30 11:12 _strncpy.c
--rw-r--r-- 1 abel 22691 1327 Oct 30 11:12 _strtok.c
--rw-r--r-- 1 abel 22691  491 Oct 30 11:12 _write_history.c
--rw-r--r-- 1 abel 22691  158 Oct 30 11:37 AUTHORS
--rw-r--r-- 1 abel 22691 3978 Oct 30 11:15 builtins.c
--rw-r--r-- 1 abel 22691 3934 Oct 30 11:16 f_alias_list.c
--rw-r--r-- 1 abel 22691 1083 Oct 30 11:16 f_builtin_utils.c
--rw-r--r-- 1 abel 22691 3018 Oct 30 11:16 f_command_handlers.c
--rw-r--r-- 1 abel 22691  754 Oct 30 11:14 f_error.c
--rw-r--r-- 1 abel 22691 1372 Oct 30 11:15 f_exit.c
--rw-r--r-- 1 abel 22691 1910 Oct 30 11:15 f_handle_builtins.c
--rw-r--r-- 1 abel 22691  502 Oct 30 11:14 f_handle_comment.c
--rw-r--r-- 1 abel 22691  316 Oct 30 11:16 f_handle_enter.c
--rw-r--r-- 1 abel 22691 4138 Oct 30 11:21 f_handle_shell_logical_operators.c
--rw-r--r-- 1 abel 22691 1271 Oct 30 11:21 f_linked_lists.c
--rw-r--r-- 1 abel 22691 1399 Oct 30 11:19 f_memory.c
--rw-r--r-- 1 abel 22691  727 Oct 30 11:17 f_special.c
--rw-r--r-- 1 abel 22691 1809 Oct 30 11:17 f_strings.c
--rw-r--r-- 1 abel 22691 1238 Oct 30 11:17 f_strings_creations.c
--rw-r--r-- 1 abel 22691 1002 Oct 30 11:18 f_strings2.c
--rw-r--r-- 1 abel 22691 2156 Oct 30 11:18 main.c
--rw-r--r-- 1 abel 22691 1752 Oct 30 11:37 man_1_simple_shell
--rw-r--r-- 1 abel 22691 2657 Oct 30 11:37 README.md
--rw-r--r-- 1 abel 22691 4088 Oct 30 11:25 shell.h
+* -rw-r--r-- 1 abel 22691 818 Oct 30 11:11 _handle_var_replacement.c
+* -rw-r--r-- 1 abel 22691 1745 Oct 30 11:11 _help.c
+* -rw-r--r-- 1 abel 22691 1587 Oct 30 11:09 _history.c
+* -rw-r--r-- 1 abel 22691  750 Oct 30 11:11 _own_memory.c
+* -rw-r--r-- 1 abel 22691  232 Oct 30 11:13 _puts.c
+* -rw-r--r-- 1 abel 22691  351 Oct 30 11:11 _strcpy.c
+* -rw-r--r-- 1 abel 22691  448 Oct 30 11:12 _strncpy.c
+* -rw-r--r-- 1 abel 22691 1327 Oct 30 11:12 _strtok.c
+* -rw-r--r-- 1 abel 22691  491 Oct 30 11:12 _write_history.c
+* -rw-r--r-- 1 abel 22691  158 Oct 30 11:37 AUTHORS
+* -rw-r--r-- 1 abel 22691 3978 Oct 30 11:15 builtins.c
+* -rw-r--r-- 1 abel 22691 3934 Oct 30 11:16 f_alias_list.c
+* -rw-r--r-- 1 abel 22691 1083 Oct 30 11:16 f_builtin_utils.c
+* -rw-r--r-- 1 abel 22691 3018 Oct 30 11:16 f_command_handlers.c
+* -rw-r--r-- 1 abel 22691  754 Oct 30 11:14 f_error.c
+* -rw-r--r-- 1 abel 22691 1372 Oct 30 11:15 f_exit.c
+* -rw-r--r-- 1 abel 22691 1910 Oct 30 11:15 f_handle_builtins.c
+* -rw-r--r-- 1 abel 22691  502 Oct 30 11:14 f_handle_comment.c
+* -rw-r--r-- 1 abel 22691  316 Oct 30 11:16 f_handle_enter.c
+* -rw-r--r-- 1 abel 22691 4138 Oct 30 11:21 f_handle_shell_logical_operators.c
+* -rw-r--r-- 1 abel 22691 1271 Oct 30 11:21 f_linked_lists.c
+* -rw-r--r-- 1 abel 22691 1399 Oct 30 11:19 f_memory.c
+* -rw-r--r-- 1 abel 22691  727 Oct 30 11:17 f_special.c
+* -rw-r--r-- 1 abel 22691 1809 Oct 30 11:17 f_strings.c
+* -rw-r--r-- 1 abel 22691 1238 Oct 30 11:17 f_strings_creations.c
+* -rw-r--r-- 1 abel 22691 1002 Oct 30 11:18 f_strings2.c
+* -rw-r--r-- 1 abel 22691 2156 Oct 30 11:18 main.c
+* -rw-r--r-- 1 abel 22691 1752 Oct 30 11:37 man_1_simple_shell
+* -rw-r--r-- 1 abel 22691 2657 Oct 30 11:37 README.md
+* -rw-r--r-- 1 abel 22691 4088 Oct 30 11:25 shell.h
 $ Ethiopiya
-./hsh: No such file or directory
+* ./hsh: No such file or directory
 ## Authors
 Abel Yitages Nebil Abdulfetah
