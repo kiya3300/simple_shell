@@ -82,6 +82,6 @@ total 108
 * -rw-r--r-- 1 abel 22691 2657 Oct 30 11:37 README.md
 * -rw-r--r-- 1 abel 22691 4088 Oct 30 11:25 shell.h
 $ Ethiopiya
-* ./hsh: No such file or directory
+./hsh: No such file or directory
 ## Authors
 Abel Yitages Nebil Abdulfetah
