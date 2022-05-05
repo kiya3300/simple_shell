@@ -46,7 +46,9 @@ $
 ### Examples
 $ /bin/pwd
 /home/vagrant/shell
+
 $ ls -la**
+
 total 108**
 -rw-r--r-- 1 abel 22691  487 May 5 11:10 _dollar_special.c
 -rw-r--r-- 1 abel 22691  824 May 5 11:10 _get_history_lines_count.c
