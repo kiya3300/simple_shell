@@ -83,5 +83,5 @@ total 108**
 * -rw-r--r-- 1 abel 22691 4088 May 5 11:25 shell.h
 $ Eth5 
 ./hsh: No such file or directory
-Authors
-Abel Yitages Nebil Abdulfetah
+### Authors
+https://github.com/kiya3300/simple_shell/blob/4d904325a06d21c83568259f2bbab24a3c4b25f7/README.md#L87
