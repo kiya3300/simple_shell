@@ -84,4 +84,4 @@ total 108**
 $ Eth5 
 ./hsh: No such file or directory
 ### Authors
-https://github.com/kiya3300/simple_shell/blob/4d904325a06d21c83568259f2bbab24a3c4b25f7/README.md#L87
+Abel Yitages Nebil Abdulfetah
