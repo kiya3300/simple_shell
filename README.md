@@ -1,5 +1,5 @@
 # Our own simple shell
-This is our self owned simple shell in C language.
+This is our group owned simple shell in C language.
 
 ### About
 Shell is a user interface to use the services of a computer. It can be a command-line interface –the one we will build- or graphical user interface, like regular software such as Windows Office.
