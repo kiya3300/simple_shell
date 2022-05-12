@@ -82,6 +82,6 @@ total 108**
 * -rw-r--r-- 1 abel 22691 2657 May 7 11:37 README.md
 * -rw-r--r-- 1 abel 22691 4088 May 7 11:25 shell.h
 $ Eth5 
-*./hsh: No such file or directory
+* ./hsh: No such file or directory
 ### Authors
 Abel Yitages Nebil Abdulfetah
