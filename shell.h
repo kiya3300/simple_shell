@@ -9,7 +9,6 @@
 #include <string.h>
 #include <errno.h>
 #include <stddef.h>
-
 /* open */
 #include <sys/stat.h>
 #include <fcntl.h>
