@@ -18,22 +18,22 @@ like regular software such as Windows Office.
 
 .SH EXAMPLES
 $  /bin/ls -l
--rw-r--r-- 1 abel 197609  158 Oct 30 11:37 AUTHORS
--rw-r--r-- 1 abel 197609 3978 Oct 30 11:15 builtins.c
--rw-r--r-- 1 abel 197609 3934 Oct 30 11:16 f_alias_list.c
--rw-r--r-- 1 abel 197609 1083 Oct 30 11:16 f_builtin_utils.c
--rw-r--r-- 1 abel 197609 3018 Oct 30 11:16 f_command_handlers.c
--rw-r--r-- 1 abel 197609  754 Oct 30 11:14 f_error.c
--rw-r--r-- 1 abel 197609 1372 Oct 30 11:15 f_exit.c
+-rw-r--r-- 1 abel 22691  158 Oct 10 11:37 AUTHORS
+-rw-r--r-- 1 abel 22691 3978 Oct 10 11:15 builtins.c
+-rw-r--r-- 1 abel 22691 3934 Oct 10 11:16 f_alias_list.c
+-rw-r--r-- 1 abel 22691 1083 Oct 10 11:16 f_builtin_utils.c
+-rw-r--r-- 1 abel 22691 3018 Oct 10 11:16 f_command_handlers.c
+-rw-r--r-- 1 abel 22691  754 Oct 10 11:14 f_error.c
+-rw-r--r-- 1 abel 22691 1372 Oct 10 11:15 f_exit.c
 
 $  ls -l
--rw-r--r-- 1 abel 197609  158 may 10 11:37 AUTHORS
--rw-r--r-- 1 abel 197609 3978 may 10 11:15 builtins.c
--rw-r--r-- 1 abel 197609 3934 may 10 11:16 f_alias_list.c
--rw-r--r-- 1 abel 197609 1083 may 10 11:16 f_builtin_utils.c
--rw-r--r-- 1 abel 197609 3018 may 10 11:16 f_command_handlers.c
--rw-r--r-- 1 abel 197609  754 may 10 11:14 f_error.c
--rw-r--r-- 1 abel 197609 1372 may 10 11:15 f_exit.c
+-rw-r--r-- 1 abel 22691  158 may 10 11:37 AUTHORS
+-rw-r--r-- 1 abel 22691 3978 may 10 11:15 builtins.c
+-rw-r--r-- 1 abel 22691 3934 may 10 11:16 f_alias_list.c
+-rw-r--r-- 1 abel 22691 1083 may 10 11:16 f_builtin_utils.c
+-rw-r--r-- 1 abel 22691 3018 may 10 11:16 f_command_handlers.c
+-rw-r--r-- 1 abel 22691  754 may 10 11:14 f_error.c
+-rw-r--r-- 1 abel 22691 1372 may 10 11:15 f_exit.c
 
 .SH AUTHOR'S				
 -Written by Abel Yitages <abelyitages10@gmail.com> and Nebil Abdulfetah <nebilabdu300@gmail.com>
